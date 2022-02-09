@@ -1,7 +1,12 @@
 # esp32s3
 
-[![crates.io](https://img.shields.io/crates/v/esp32s3.svg)](https://crates.io/crates/esp32s3)
+---
 
+## This project has moved! It can now be found in the [esp-rs/esp-pacs](https://github.com/esp-rs/esp-pacs/tree/main/esp32s3) repository.
+
+---
+
+[![crates.io](https://img.shields.io/crates/v/esp32s3.svg)](https://crates.io/crates/esp32s3)
 
 A peripheral access crate the ESP32-S3. See the [`svd2rust repo`](https://github.com/rust-embedded/svd2rust) for more infomation on how to use this crate.
 
@@ -9,9 +14,7 @@ If you find any problems with the SVD please report them upstream to the [espres
 
 Join in on the discussion: https://matrix.to/#/#esp-rs:matrix.org!
 
-
 ## [`Documentation`](https://docs.rs/esp32s3)
-
 
 ## Building
 
